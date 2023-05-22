@@ -124,6 +124,5 @@ button:hover {
 
 iframe {
 	border: 0;
-	width: 300px;
-	heigth: 225px;
+	width: 100%;
 }
